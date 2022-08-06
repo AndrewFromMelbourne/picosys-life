@@ -1,4 +1,4 @@
-# PicoSystem 15 Puzzle
+# PicoSystem Conway's Game of Life
 
 A version of Conway's Game of Life for the [Pimoroni Picosystem](https://shop.pimoroni.com/products/picosystem?variant=32369546985555), written in C++ using the Picosystem SDK.  
 
